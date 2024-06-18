@@ -16,13 +16,14 @@ h1 {
   color: #83580b;
   padding: 15px 32px;
   font-family: Tiny5;
+	  font-size: 35px;
 }
 
 h2 {
   color: #83580b;
   text-align: center;
   font-family: Tiny5;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 p {
@@ -165,7 +166,6 @@ strong {
 .video{
 margin: auto;
 width: 42%;
-border: 5px solid #83580b;;
 padding: 10px;
 }
 
