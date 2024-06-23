@@ -213,8 +213,8 @@ padding: 10px;
 	-ms-filter: grayscale(100%);
 	filter: grayscale(100%);
 	filter: gray; /* IE 6-9 */
-  height: 100%;
-  width: 100%;
+  height: 110px;
+  width: 190px;
 
 }
 
