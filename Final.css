@@ -113,15 +113,14 @@ text-align: center;
 
 .button1 {
 width: 100%
-   min-width: 50px;
-   max-width: 300px;
+text-align: center;
+
 	
   background-color: #fde994; 
   border: 6px solid #615a18;
   color: #83580b;
   padding: 15px 32px;
   margin: 1;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
@@ -134,15 +133,13 @@ width: 100%
 
 .button2 {
 	width: 100%
-   min-width: 50px;
-   max-width: 300px;
+text-align: center;
 	
   background-color: #fde994; 
   border: 6px solid #615a18;
   color: #83580b;
   padding: 15px 32px;
   margin: 1;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
