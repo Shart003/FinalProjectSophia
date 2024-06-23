@@ -94,15 +94,15 @@ strong {
 
 .Image1 {
 
-  text-align: center;
-
+width: 100%;
+  height: auto;
+  
 }
 
 .Image2 {
 
   width: 100%;
   height: auto;
-  text-align: center;
 
 }
 .center {
