@@ -78,6 +78,10 @@ strong {
   
 
 .buttoncenter {
+width: 100%
+   min-width: 50px;
+   max-width: 300px;
+	
   background-color: #fde994; 
   border: 6px solid #615a18;
   color: #83580b;
@@ -108,6 +112,10 @@ text-align: center;
 }
 
 .button1 {
+width: 100%
+   min-width: 50px;
+   max-width: 300px;
+	
   background-color: #fde994; 
   border: 6px solid #615a18;
   color: #83580b;
@@ -120,14 +128,15 @@ text-align: center;
   border-radius: 20px;
   transition-duration: 0.4s;
   cursor: pointer;
-  position:fixed;
-  top: 525px;
-  right: 1150px;
   font-family: Tiny5;
   
 }
 
 .button2 {
+	width: 100%
+   min-width: 50px;
+   max-width: 300px;
+	
   background-color: #fde994; 
   border: 6px solid #615a18;
   color: #83580b;
@@ -141,10 +150,6 @@ text-align: center;
   transition-duration: 0.4s;
   cursor: pointer;
   font-family: Tiny5;
-
-  position:fixed;
-  top: 525px;
-  right: 50px;
 }
 
 .buttoncenter:hover {
