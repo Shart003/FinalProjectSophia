@@ -214,8 +214,8 @@ iframe {
 	-ms-filter: grayscale(100%);
 	filter: grayscale(100%);
 	filter: gray; /* IE 6-9 */
-  width: 100%;
-  height: auto;
+  height: 110px;
+  width: 190px;
 }
 
 .img:hover {
