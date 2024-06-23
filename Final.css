@@ -165,7 +165,8 @@ strong {
 
 .video{
 margin: auto;
-width: 42%;
+width:100%;
+height: auto;
 padding: 10px;
 }
 
