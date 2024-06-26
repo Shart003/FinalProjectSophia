@@ -245,3 +245,8 @@ iframe {
 .movecenter {
 	text-align:center;
 }
+
+img.animated-gif{
+  width: 100%;
+  height: auto;
+}
