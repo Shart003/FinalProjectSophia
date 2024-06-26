@@ -99,6 +99,7 @@ width: 100%
 .Image1 {
 
 text-align: center;
+border:8px solid #615a18;
   
 }
 
@@ -246,8 +247,3 @@ iframe {
 	text-align:center;
 }
 
-img.animated-gif{
-  width: 100%;
-  height: auto;
-  text-align: center;
-}
